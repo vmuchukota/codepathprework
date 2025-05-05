@@ -2,7 +2,7 @@
 
 Submitted by: **Vaishnavi Muchukota**
 
-**Prework** is an app tha changes colors when you click a button. 
+**Prework** is an app that changes colors when you click a button. 
 
 Time spent: **2** hours spent in total
 
@@ -35,8 +35,8 @@ GoodNotes
 - fast UI
 - different fonts and pen thicknesses 
 
-I want to build an app that is a mixture of charades and kareoke. This would have the interactive, group elements of charades 
-as everyone works together to guess the song. 
+My app idea is called Karades! This app would be a combination of charades and karoake. There would be two main ways of playing this game, as a group or individually. The app would play a song and the players would try to guess the song befroe the time runs out. The second way would be when one group/person acts out the song while its playing while the other side guesses the song. 
+
 ## Notes
 
 
